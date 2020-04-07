@@ -4,4 +4,4 @@
 int main() {
   System system;
   NCursesDisplay::Display(system);
-}
+};
